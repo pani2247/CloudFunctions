@@ -1,0 +1,8 @@
+{
+  "firebase": {
+    "projectId": "qwikly-aea88",
+    "databaseURL": "https://qwikly-aea88.firebaseio.com",
+    "storageBucket": "qwikly-aea88.appspot.com",
+    "locationId": "asia-south1"
+  }
+}
